@@ -1,0 +1,11 @@
+adminUser:
+  password: vault:carpblossom/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: arcalos-admin@googlegroups.com
+  token: vault:carpblossom/pipelineUser:token
+  username: arcalos-bot
+prow:
+  hmacToken: vault:carpblossom/prow:hmacToken
+segmentWriteKey: vault:carpblossom:segmentWriteKey
