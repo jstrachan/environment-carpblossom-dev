@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/cloudbees/jx-tenant-service
   version: 0.0.260
   versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.260
+- host: github.com
+  owner: jstrachan
+  repo: nodey248
+  url: https://github.com/jstrachan/nodey248.git
+  version: ""
+  versionURL: ""

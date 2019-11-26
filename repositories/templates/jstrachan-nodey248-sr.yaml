@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jstrachan
+    provider: github
+    repository: nodey248
+  name: jstrachan-nodey248
+spec:
+  description: Imported application for jstrachan/nodey248
+  httpCloneURL: https://github.com/jstrachan/nodey248.git
+  org: jstrachan
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: nodey248
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jstrachan/nodey248.git
